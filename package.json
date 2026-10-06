@@ -1,6 +1,6 @@
 {
   "name": "move-to-front-transform",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Reversibly maps text to a sequence of indices by tracking recently seen symbols, improving local symbol clustering.",
   "type": "module",
   "main": "src/index.js",
